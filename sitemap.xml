@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://3tilley.github.io/zola-demo/</loc>
+    </url>
+    <url>
+        <loc>https://3tilley.github.io/zola-demo/archive/</loc>
+    </url>
+    <url>
+        <loc>https://3tilley.github.io/zola-demo/posts/</loc>
+    </url>
+    <url>
+        <loc>https://3tilley.github.io/zola-demo/posts/illberts-otel-part-1-instrumentation/</loc>
+        <lastmod>2023-10-31</lastmod>
+    </url>
+    <url>
+        <loc>https://3tilley.github.io/zola-demo/posts/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://3tilley.github.io/zola-demo/tags/</loc>
+    </url>
+    <url>
+        <loc>https://3tilley.github.io/zola-demo/tags/opentelemetry/</loc>
+    </url>
+    <url>
+        <loc>https://3tilley.github.io/zola-demo/tags/python/</loc>
+    </url>
+    <url>
+        <loc>https://3tilley.github.io/zola-demo/tags/rust/</loc>
+    </url>
+</urlset>
