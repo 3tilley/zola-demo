@@ -15,7 +15,7 @@ We'll discuss how OTel came about, and why it's useful for your libraries.
 ### Prerequisites
 It's useful to understand what a log, trace, and metric are (collectively known in OTel as Signals). This can either be from reading about them on the [concepts page](https://opentelemetry.io/docs/concepts/signals/)or from your experience using in your own applications pre-OpenTelemetry. That would be tracing systems like Zipkin / Jaeger, and metrics from Prometheus / StatsD.
 
-To understand the end goal, it might also be worth checking out the [OpenTelemetry demo](https://opentelemetry.io/docs/demo/) for Rust or another language. The demo can also be used to impress/persuade your colleagues and management, other people in your coworking, and maybe even housemates and partners. If you don't want to download and run the Docker containers yourself you can just check out the [screenshots](https://opentelemetry.io/docs/demo/screenshots/). 
+To understand the end goal, it might also be worth checking out the [OpenTelemetry demo](https://opentelemetry.io/docs/demo/) for Rust or another language. The demo can also be used to impress/persuade your colleagues and management, other people in your coworking space, and maybe even housemates and partners. If you don't want to download and run the Docker containers yourself you can just check out the [screenshots](https://opentelemetry.io/docs/demo/screenshots/). 
 
 #### Improvement:
 If anyone has an example of these demos running live and publicly accessible please let me know and I'll link
